@@ -7,3 +7,5 @@
 - [原料商／代工廠清單 CSV](market-research/carwash-suppliers.csv)
 - [新竹地區鐵粉去除劑實體購買地點](market-research/新竹鐵粉去除劑購買地點.md)
 - [國產輪胎油比較：K-WAX vs OLIMA（含輪胎刷）](market-research/輪胎油比較.md)
+- [擦車布／吸水布比較（蝌蚪布、暴力吸水布）](market-research/擦車布比較.md)
+- [擦車布價格明細 CSV](market-research/drying-towels.csv)
